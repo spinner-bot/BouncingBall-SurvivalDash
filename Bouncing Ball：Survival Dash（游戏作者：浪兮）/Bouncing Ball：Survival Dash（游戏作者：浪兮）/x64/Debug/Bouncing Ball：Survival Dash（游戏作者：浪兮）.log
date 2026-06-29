@@ -1,0 +1,46 @@
+﻿  main.cpp
+D:\VisualStudio\Packages\VC\Tools\MSVC\14.44.35207\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(58,18): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(229,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(236,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(236,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(284,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(284,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(388,89): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(388,89): warning C4244:         with
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(388,89): warning C4244:         [
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(388,89): warning C4244:             _Ty=int
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(388,89): warning C4244:         ]
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(407,89): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(407,89): warning C4244:         with
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(407,89): warning C4244:         [
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(407,89): warning C4244:             _Ty=int
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(407,89): warning C4244:         ]
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(453,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(457,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(461,38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(485,47): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(575,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(577,83): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(577,83): warning C4244:         with
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(577,83): warning C4244:         [
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(577,83): warning C4244:             _Ty=int
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(577,83): warning C4244:         ]
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(654,89): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(654,89): warning C4244:         with
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(654,89): warning C4244:         [
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(654,89): warning C4244:             _Ty=int
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(654,89): warning C4244:         ]
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(654,50): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(654,50): warning C4244:         with
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(654,50): warning C4244:         [
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(654,50): warning C4244:             _Ty=int
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(654,50): warning C4244:         ]
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(677,59): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(677,59): warning C4244:         with
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(677,59): warning C4244:         [
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(677,59): warning C4244:             _Ty=int
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(677,59): warning C4244:         ]
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(683,45): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\Bouncing Ball：Survival Dash（游戏作者：浪兮）\main.cpp(384,40): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  Bouncing Ball：Survival Dash（游戏作者：浪兮）.vcxproj -> F:\资源夹\开发包\C++\Project\游戏\Bouncing Ball：Survival Dash（游戏作者：浪兮）\x64\Debug\Bouncing Ball：Survival Dash（游戏作者：浪兮）.exe
